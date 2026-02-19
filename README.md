@@ -56,15 +56,6 @@ Currently pursuing a **Master's in Software Development and Cloud**.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ckopsahilis&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=ckopsahilis&style=flat-square&color=blue" alt="Profile Views" />
-</div>
-
----
 
 <div align="center">
   <blockquote>
