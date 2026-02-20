@@ -27,7 +27,7 @@
 I'm a mathematician and passionate developer dedicated to writing **Clean Code** and designing robust **Software Architectures**.
 Currently pursuing a **Master's in Software Development and Cloud**.
 
--  I’m currently working on **AI-integration and Data Engineering projects**.
+-  I’m currently working on **AI-integration, ML and Data Engineering projects**.
 -  I’m currently learning **Advanced Cloud Patterns & Scalable Architectures**.
 
 ---
