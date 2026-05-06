@@ -60,7 +60,6 @@ Mathematics graduate and junior developer specializing in algorithmic design and
 
 **AI Agents**
 <br>
-![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github%20copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Microsoft 365 Premium](https://img.shields.io/badge/Microsoft%20365%20Premium-%23D13C3E?style=for-the-badge&logo=microsoft365&logoColor=white)
