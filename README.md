@@ -9,14 +9,14 @@
   </p>
 
   <p>
+    <a href="http://chk-resume-website-eu-north-1.s3-website.eu-north-1.amazonaws.com/">
+      <img src="https://img.shields.io/badge/Personal%20Website-%23232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Website" />
+    </a>
     <a href="https://www.linkedin.com/in/ckopsahilis">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://twitter.com/kopsahilis">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="http://chk-resume-website-eu-north-1.s3-website.eu-north-1.amazonaws.com/">
-      <img src="https://img.shields.io/badge/Personal%20Website-%23232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Website" />
     </a>
   </p>
 </div>
@@ -55,9 +55,15 @@ Mathematics graduate and junior developer specializing in algorithmic design and
 **Tools**
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Ollama](https://img.shields.io/badge/ollama-%23FFFFFF.svg?style=for-the-badge&logo=ollama&logoColor=black)
-![GitHub Copilot](https://img.shields.io/badge/github%20copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+**AI Agents**
+<br>
+![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github%20copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Microsoft 365 Premium](https://img.shields.io/badge/Microsoft%20365%20Premium-%23D13C3E?style=for-the-badge&logo=microsoft365&logoColor=white)
 
 ---
 
